@@ -32,7 +32,7 @@ Lang=none
 
 [TulipInfo]
 ProductName=HPE Unified Functional Testing
-Version=14.02
+Version=14.0
 
 [TulipAddins]
 Database=
@@ -42,7 +42,6 @@ SAP=
 Windows Applications=
 TEA=
 Web=
-Windows Runtime=
 XML=
 
 [ExtraFiles]
